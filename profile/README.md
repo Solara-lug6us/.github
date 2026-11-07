@@ -18,6 +18,10 @@ Solara is a third-party tool for Roblox on Windows. This organization collects g
 
 <img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/shot.jpg" width="100%" alt="Solara preview">
 
+## Gallery
+
+<img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/gal1.jpg" width="49%" alt="Setup"> <img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/gal2.jpg" width="49%" alt="Neon desk">
+
 ## Safety notes
 
 - Third-party tools are not official and can break after any update
